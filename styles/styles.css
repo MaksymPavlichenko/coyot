@@ -1,0 +1,26 @@
+.game {
+    width: 1200px;
+    height: 400px;
+    margin: auto;
+    border-bottom: 10px solid #CD853F;
+    background-color: #D2C3A8;
+}
+#coyot {
+    height: 42px;
+    width: 65px;
+    background-image: url(/img/coyot.png);
+    background-size: 42px 65px;
+    position: relative;
+    top: 250px;
+}
+#cactus {
+    height: 50px;
+    width: 50px;
+    background-image: url(/img/cactus.png);
+    background-size: 50px 50px;
+    position: relative;
+    top: 250px;
+    left: 800px;
+    animation: cactusMove 2s infinite linear;
+}
+
