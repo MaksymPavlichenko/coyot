@@ -8,16 +8,12 @@
 .coyot {
     height: 42px;
     width: 65px;
-    background-image: url(/img/coyot.png);
-    background-size: 42px 65px;
     position: relative;
     top: 250px;
 }
 .cactus {
     height: 50px;
     width: 50px;
-    background-image: url(/img/cactus.png);
-    background-size: 50px 50px;
     position: relative;
     top: 250px;
     left: 800px;
